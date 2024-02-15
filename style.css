@@ -1,0 +1,39 @@
+
+body {
+  padding-top: 52px;
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.img_height {
+  height: 600px;
+}
+
+.leaf{
+  border: none;
+  border-top: 3px solid #343a40;
+  max-width: 250px;
+  margin:25px auto ;
+}
+
+.gray{
+  color: #343a40;
+  position: relative;
+  top: -55px;
+  font-size: 45px;
+  border: 10px solid #E2E3E5;
+  background-color: #E2E3E5;
+}
+
+.white{
+  color: #343a40;
+  position: relative;
+  top: -55px;
+  font-size: 45px;
+  border: 10px solid #fff;
+  background-color: #fff;
+}
+
+.shadow:hover {
+  opacity: .75;
+}
